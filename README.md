@@ -1,4 +1,4 @@
-# **Nao Learning From Demonstrations**
+# **NAO Humanoid Robot Learning Manipulation From Few-Shot Demonstrations**
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
 [![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4.5-brightgreen)](https://www.coppeliarobotics.com/)
@@ -61,3 +61,7 @@ This repository is organized into several modules and folders, each designed to 
 
 4. **Real-World Integration**:
    - Set up Kinect sensors or robotic arms and run `RealWorldScripts`.
+  
+## **Credits**
+Keyhan Rayati, AliReza Beigy, Anoosheh Saadati, Pourya Shahverdi, Mehdi
+Tale Masouleh, Ahmad Kalhor, Wing-Yue Georey Louie
