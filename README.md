@@ -11,6 +11,10 @@ Welcome to the **Nao Learning From Demonstrations** repository! This project int
 
 ## **Project Overview**
 
+Video:
+
+https://www.youtube.com/watch?v=cuUF_SJkuuI
+
 This repository is organized into several modules and folders, each designed to handle specific aspects of robotic control and simulation:
 
 - [**KinectSkeleton**](./KinectSkeleton/README.md): Processes skeleton data captured from Kinect sensors for motion mapping.
@@ -63,6 +67,5 @@ This repository is organized into several modules and folders, each designed to 
    - Set up Kinect sensors or robotic arms and run `RealWorldScripts`.
   
 ## **Credits**
-Keyhan Rayati, AliReza Beigy, Anoosheh Saadati, Pourya Shahverdi, Mehdi
-Tale Masouleh, Ahmad Kalhor, Wing-Yue Geoffrey Louie
+Pourya Shahverdi co-supervised a team of researchers from Taarlab in accomplishing this project.
 Mirrored from https://github.com/TaarLab/NaoLfD.git
